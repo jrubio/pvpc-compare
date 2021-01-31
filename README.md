@@ -7,3 +7,8 @@ Este script usa los siguientes datos para comparar precios regulados (PVPC) con 
 Todos estos ficheros csv se importan en el módulo **pandas** de Python, donde se relizan las operaciones de _slicing_ por fechas de factura y cálculo comparativo por mes.
 
 **NOTA:** Los detalles de formato se pueden ver en los comentarios del código y en los ejemplos de ficheros incluidos en este repo.*
+
+## Código
+* `electricity.py`: Módulo con las funciones que luego se usan en el módulo principal.
+* `main.py`: Módulo principal.
+
