@@ -1,3 +1,7 @@
+# Julio
+old/
+*.spydata
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
